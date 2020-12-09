@@ -1,1 +1,1 @@
-# mod-trex
+# TREX
